@@ -56,8 +56,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 101%;
+	font-size: 101.5%;
+	font-family: 'Times New Roman', 'Times New Roman', 'Times New Roman';
 	font-family: 'Candara', 'Candara', 'Candara';
+	font-family: 'Calibri', 'Calibri', 'Calibri';
 	vertical-align: baseline;
 }
 body {
